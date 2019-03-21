@@ -7,7 +7,7 @@
  ## Setup
 
  - Clone or download zip
- - cd into directory
+ - cd into directory with the `package.json` file
  - `npm install` to get dependencies
  - `npm start` to run development build on localhost:3000
  - `npm run build` to create production build (just like any React app bootstrapped with create-react-app)
